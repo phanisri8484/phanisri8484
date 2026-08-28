@@ -129,28 +129,21 @@ Career
 └── Problem Solving
 ```
 
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=phanisri8484&show_icons=true&hide_border=true&rank_icon=github"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/streak?username=phanisri8484&hide_border=true"
-    height="180"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=phanisri8484&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanisri8484&layout=compact&hide_border=true" height="180" alt="Top Languages">
 </p>
 
+### 🔥 Contribution Streak
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanisri8484&layout=compact&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phanisri8484" height="180" alt="GitHub Contribution Streak">
 </p>
+
 ---
 
 ## 🎯 2026 Goals
