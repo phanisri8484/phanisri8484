@@ -137,16 +137,16 @@ Career
 
 ## 🎯 2026 Goals
 
-* [ ] Strengthen Machine Learning fundamentals
-* [ ] Learn Deep Learning from fundamentals
-* [ ] Improve Data Structures & Algorithms
-* [ ] Build meaningful AI/ML projects
-* [ ] Participate in hackathons
-* [ ] Secure an internship
-* [ ] Build a strong technical resume
-* [ ] Contribute consistently to GitHub
-* [ ] Continue learning through Coursera
-* [ ] Improve problem-solving skills
+*  Strengthen Machine Learning fundamentals
+*  Learn Deep Learning from fundamentals
+*  Improve Data Structures & Algorithms
+*  Build meaningful AI/ML projects
+*  Participate in hackathons
+*  Secure an internship
+*  Build a strong technical resume
+*  Contribute consistently to GitHub
+*  Continue learning through Coursera
+*  Improve problem-solving skills
 
 ---
 
