@@ -132,20 +132,6 @@ Career
 ---
 
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phanisri8484&theme=github_dark" height="180" alt="GitHub Statistics">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phanisri8484&theme=github_dark" height="180" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phanisri8484&theme=github_dark" width="90%" alt="GitHub Profile Details">
-</p>
-
-
-
----
 
 ## 🎯 2026 Goals
 
