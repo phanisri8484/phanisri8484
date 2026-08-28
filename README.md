@@ -133,8 +133,6 @@ Career
 └── Problem Solving
 ```
 
----
-
 ## 🎯 2026 Goals
 
 *  Strengthen Machine Learning fundamentals
@@ -157,11 +155,6 @@ I'm using GitHub not just to store code, but to document my **learning journey**
 ### Learn → Build → Document → Improve → Repeat
 
 Every project, experiment and contribution is part of that journey.
-
----
-
-
-
 
 ---
 
