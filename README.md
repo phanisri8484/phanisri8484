@@ -2,29 +2,32 @@
 
 🎓 **B.Tech Computer Science Undergraduate** at **Amrita Vishwa Vidyapeetham**
 🤖 Exploring **Artificial Intelligence, Machine Learning & Data Science**
-💻 Building practical software projects and learning by doing
+💻 Building practical projects and learning by doing
 🚀 Interested in **AI/ML Engineering, Software Development & Problem Solving**
 
-
-\
+<p align="left">
+  <a href="https://github.com/phanisri8484">
+    <img src="https://img.shields.io/badge/GitHub-phanisri8484-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a **Computer Science undergraduate graduating in 2028**, currently working on strengthening my foundations in **AI/ML, Data Science, Software Development and Computer Science fundamentals**.
+I'm a **Computer Science undergraduate graduating in 2028**, currently strengthening my foundations in **Artificial Intelligence, Machine Learning, Data Science, Software Development and Computer Science fundamentals**.
 
-I enjoy taking concepts I learn and turning them into **practical projects** that I can understand, explain, improve and build upon.
+I enjoy turning what I learn into **practical projects** that I can understand, explain, improve and build upon.
 
-Currently, I'm focused on:
+### Currently Focused On
 
 * 🤖 Machine Learning & Deep Learning
-* 📊 Data Science and Data Analysis
+* 📊 Data Science & Data Analysis
 * 💻 Software & Backend Development
 * 🧩 Data Structures & Algorithms
 * 🌐 Computer Networks & Core CS
-* 🚀 Hackathons and practical projects
-* 🎯 Preparing for internships and placements
+* 🚀 Hackathons & Technical Projects
+* 🎯 Internship & Placement Preparation
 
 ---
 
@@ -32,30 +35,33 @@ Currently, I'm focused on:
 
 ### 👨‍💻 Languages
 
-
-
-\
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
 
 ### 🤖 AI / ML & Data
 
-
-
-\
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
 
 ### 🌐 Web & Backend
 
-
-
-
-
-\
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 
 ### 🗄️ Databases & Tools
 
-
-
-
-\
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square\&logo=mathworks\&logoColor=white)
 
 ---
 
@@ -73,7 +79,7 @@ A project focused on building a practical financial technology solution.
 
 ### 🌐 NetVerse
 
-A **Computer Networks project** designed to explore networking concepts through practical implementation.
+A **Computer Networks project** exploring networking concepts through practical implementation.
 
 **Focus:** Computer Networks • Networking Concepts • Software Development
 
@@ -83,7 +89,7 @@ A **Computer Networks project** designed to explore networking concepts through 
 
 ### 📚 LearnVerse
 
-An ongoing learning-focused project aimed at making the learning experience more organized, interactive and practical.
+A learning-focused project aimed at making the learning experience more organized, interactive and practical.
 
 **Focus:** Learning Technology • Software Development • AI-powered Applications
 
@@ -138,8 +144,8 @@ Career
 * [ ] Participate in hackathons
 * [ ] Secure an internship
 * [ ] Build a strong technical resume
-* [ ] Contribute more consistently to GitHub
-* [ ] Continue learning through Coursera and other platforms
+* [ ] Contribute consistently to GitHub
+* [ ] Continue learning through Coursera
 * [ ] Improve problem-solving skills
 
 ---
@@ -148,9 +154,7 @@ Career
 
 I'm using GitHub not just to store code, but to document my **learning journey**.
 
-I aim to:
-
-**Learn → Build → Document → Improve → Repeat**
+### Learn → Build → Document → Improve → Repeat
 
 Every project, experiment and contribution is part of that journey.
 
@@ -159,8 +163,8 @@ Every project, experiment and contribution is part of that journey.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phanisri8484&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanisri8484&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=phanisri8484&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanisri8484&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
@@ -168,7 +172,7 @@ Every project, experiment and contribution is part of that journey.
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=phanisri8484&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=phanisri8484&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -206,9 +210,9 @@ Every project, experiment and contribution is part of that journey.
 
 I'm always interested in learning, building projects, participating in hackathons and connecting with other developers and students.
 
-**If you're working on something interesting, feel free to reach out!**
+If you're working on something interesting, feel free to connect!
 
-⭐ If you find any of my projects useful, consider giving them a star!
+⭐ **If you find any of my projects useful, consider giving them a star.**
 
 ---
 
