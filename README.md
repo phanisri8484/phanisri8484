@@ -133,3 +133,37 @@ Career
 ├── Hackathons
 ├── Internships
 └── Problem Solving
+---
+📊 GitHub Statistics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=phanisri8484&show_icons=true&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=phanisri8484&hide_border=true" height="180" alt="GitHub Streak"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanisri8484&layout=compact&hide_border=true" height="180" alt="Top Languages"> </p>
+🎯 2026 Goals
+🎓 Strengthen Machine Learning fundamentals
+🧠 Learn Deep Learning from fundamentals
+🧩 Improve Data Structures & Algorithms
+🤖 Build meaningful AI/ML projects
+🚀 Participate in hackathons
+💼 Secure an internship
+📄 Build a strong technical resume
+📈 Contribute consistently to GitHub
+📚 Continue learning through Coursera
+🧠 Improve problem-solving skills
+📈 My GitHub Journey
+
+I'm using GitHub not just to store code, but to document my learning journey.
+
+Learn → Build → Document → Improve → Repeat
+
+Every project, experiment, and contribution is part of that journey.
+
+🤝 Let's Connect
+
+I'm always interested in learning, building projects, participating in hackathons, and connecting with other developers and students.
+
+If you're working on something interesting, feel free to connect!
+
+<p> <a href="https://github.com/phanisri8484"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </p>
+
+⭐ If you find any of my projects useful, consider giving them a star.
+
+Keep learning. Keep building. Keep improving. 🚀
+---
