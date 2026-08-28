@@ -162,32 +162,6 @@ Every project, experiment and contribution is part of that journey.
 
 
 
-## 💡 What I'm Working Towards
-
-```text
-                    ┌─────────────────────┐
-                    │   SOFTWARE + AI     │
-                    └──────────┬──────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              │                │                │
-           AI / ML          DSA / CS       DEVELOPMENT
-              │                │                │
-        ┌─────┴─────┐     ┌────┴────┐     ┌─────┴─────┐
-        │           │     │         │     │           │
-       ML          DL    DSA      Core   Backend     APIs
-        │           │     │         │     │           │
-        └───────────┴─────┴─────────┴─────┴───────────┘
-                               │
-                               ▼
-                         BUILD PROJECTS
-                               │
-                               ▼
-                         INTERNSHIPS
-                               │
-                               ▼
-                           PLACEMENTS
-```
 
 ---
 
