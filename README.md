@@ -131,18 +131,19 @@ Career
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phanisri8484&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanisri8484&layout=compact&hide_border=true" height="180" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phanisri8484&theme=github_dark" height="180" alt="GitHub Statistics">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phanisri8484&theme=github_dark" height="180" alt="Top Languages">
 </p>
-
-### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phanisri8484" height="180" alt="GitHub Contribution Streak">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phanisri8484&theme=github_dark" width="90%" alt="GitHub Profile Details">
 </p>
+
+
 
 ---
 
