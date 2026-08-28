@@ -160,22 +160,7 @@ Every project, experiment and contribution is part of that journey.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phanisri8484&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanisri8484&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=phanisri8484&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 💡 What I'm Working Towards
 
